@@ -1,7 +1,7 @@
 # jpa01-POWERTRICEPS
 
 
-Deployed at: http://jpa01-powertriceps.dokku-03.cs.ucsb.edu/
+Deployed at: https://jpa01-powertriceps.dokku-03.cs.ucsb.edu/
 
 # About this repo
 
